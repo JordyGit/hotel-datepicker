@@ -97,8 +97,13 @@
 	display: block;
 }
 
+datepicker__buttons {
+	user-select: none;
+}
+
 .datepicker__close-button,
-.datepicker__clear-button {
+.datepicker__clear-
+{
 	cursor: pointer;
 }
 
